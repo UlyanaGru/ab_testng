@@ -32,6 +32,6 @@
 3. **Надежность результатов**: Высокая надежность благодаря большому объему данных (>10,000 наблюдений)
 4. **Риски и ограничения**: Возможные сезонные колебания, внешние факторы влияния, ограниченный временной период тестирования. Рекомендуется мониторинг результатов после внедрения.
 
-![1]()
-![2]()
-![3]()
+![1](https://github.com/UlyanaGru/ab_testng/blob/master/pictures/1.png)
+![2](https://github.com/UlyanaGru/ab_testng/blob/master/pictures/2.png)
+![3](https://github.com/UlyanaGru/ab_testng/blob/master/pictures/3.png)
